@@ -1,0 +1,18 @@
+{
+  "name": "weather",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^5.1.0",
+    "jsdom": "^24.1.0",
+    "jsdom-global": "^3.0.2",
+    "node-fetch": "^3.3.2"
+  }
+}
